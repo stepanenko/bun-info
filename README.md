@@ -1,6 +1,6 @@
 # MAX: The Complete Guide to Angular 2
 
-Downloaded to PC. 
+Downloaded video. Couldnt find on coursehunters.net
 
 Folder: [ Max ] Udemy - the-complete-guide-to-angular-2 [FreeTutorials.Eu]
 
