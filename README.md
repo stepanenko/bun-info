@@ -1,4 +1,4 @@
-# MAX: The Complete Guide to Angular 2
+# [MAX](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w): The Complete Guide to Angular 2
 
 Downloaded video. Couldnt find on coursehunters.net
 
