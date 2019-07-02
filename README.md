@@ -2,7 +2,7 @@
 
 Downloaded video. Couldnt find on coursehunters.net
 
-Folder: [ Max ] Udemy - the-complete-guide-to-angular-2 [FreeTutorials.Eu]
+Path: D:\VIDEO\ANGULAR new Video\[ Max ] Udemy - the-complete-guide-to-angular-2 [FreeTutorials.Eu]
 
 Year of production - approx 2018.
 
