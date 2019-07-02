@@ -2,9 +2,12 @@
 
 Downloaded video. Couldnt find on coursehunters.net
 
-Path: D:\VIDEO\ANGULAR new Video\[ Max ] Udemy - the-complete-guide-to-angular-2 [FreeTutorials.Eu]
+Path: 
+- D:\VIDEO\ANGULAR new Video\[ Max ] Udemy - the-complete-guide-to-angular-2 [FreeTutorials.Eu]
 
-Year of production - approx 2018.
+Year of production:
+ - approx 2018.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
+Generated with:
+- [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
 
