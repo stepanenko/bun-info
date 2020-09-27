@@ -1,12 +1,11 @@
 ## The Complete Guide to Angular 2
 
-By Maximilian Schwarzmüller. [YouTube Channel](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+Course Author: **Max Schwarzmüller**. [YouTube Channel](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+
+Updated all packages on: **27.09.2020**
 
 Downloaded as:
 - D:\VIDEO\ANGULAR new Video\[ Max ] Udemy - the-complete-guide-to-angular-2 [FreeTutorials.Eu]
-
-Tech Stack:
-- Angular version 8.0.2.
 
 Coursehunters:
 - [Angular (Angular 2+) и NodeJS - MEAN](https://coursehunter.net/course/udemy-angular-node-mean-stack)
